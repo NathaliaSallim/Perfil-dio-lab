@@ -17,8 +17,6 @@ Formada em Análise e Desenvolvimento de Sistemas, em transição de carreira pa
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaSallim&bg_color=000&border_color=9400D3&title_color=9400D3&text_color=FFF)](https://github.com/NathaliaSallim)
-
 ## Minhas contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NathaliaSallim&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
