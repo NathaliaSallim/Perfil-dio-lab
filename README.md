@@ -25,4 +25,4 @@ Formada em Análise e Desenvolvimento de Sistemas, em transição de carreira pa
 
 ## Minhas contribuições
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NathaliaSallim&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NathaliaSallim&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
